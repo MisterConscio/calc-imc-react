@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+input[type=number] {
+  padding: 4px 8px;
+  margin-bottom: 16px;
+  margin-left: 6px;
+}
+
+.res-bold {
+  font-size: 1.1rem;
+  color: #98c379;
+}
